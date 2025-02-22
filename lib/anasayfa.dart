@@ -166,7 +166,7 @@ class _AnasayfaState extends State<Anasayfa> {
                           virgulDurum = false;
                           negatifDurum = false;
                         });
-                      }, child: Text("AC", style: TextStyle(fontSize: ekranYuksekligi/23.58, color: Colors.white),),),
+                      }, child: Text("AC", style: TextStyle(fontSize: ekranYuksekligi/28.3, color: Colors.white),),),
                     )
                 ),
                 // +/- BUTONU
@@ -223,7 +223,7 @@ class _AnasayfaState extends State<Anasayfa> {
                               }
                             }
                           });
-                        }, child: Text("+/-", style: TextStyle(fontSize: ekranYuksekligi/23.58, color: Colors.white),),),
+                        }, child: Text("+/-", style: TextStyle(fontSize: ekranYuksekligi/28.3, color: Colors.white),),),
                     )
                 ),
                 islemButon("%", 1, Colors.white30, ekranYuksekligi),
